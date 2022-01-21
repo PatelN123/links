@@ -1,5 +1,5 @@
 import website from '../assets/website.png'
-import prodhunt from '../assets/prodhunt.png'
+import prodhunt from '../assets/producthunt.png'
 import github from '../assets/github.png'
 import medium from '../assets/medium.png'
 
