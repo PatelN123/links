@@ -1,6 +1,7 @@
 import website from '../assets/website.png'
 import prodhunt from '../assets/prodhunt.png'
 import github from '../assets/github.png'
+import medium from '..assets/medium.png'
 
 const items = [{
     "title": "Website",
@@ -20,8 +21,11 @@ const items = [{
     "image": prodhunt,
     "link": "https://www.producthunt.com/@nayanpatel" //my ProductHunt Profile link
 },
-              
-              
-              ]
+{
+    "title": "Medium",
+    "subtitle": "@PatelN123",
+    "image": medium,
+    "link": "https://medium.com/@PatelN123" //my ProductHunt Profile link
+}]
 
 export default items
