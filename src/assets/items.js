@@ -1,6 +1,6 @@
 import website from '../assets/website.png'
 import prodhunt from '../assets/prodhunt.png'
-import github from '../assets/github.png'
+import github from '../assets/gh.png'
 import medium from '../assets/medium.png'
 
 const items = [{
